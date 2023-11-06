@@ -13,7 +13,8 @@ let package = Package(
   targets: [
     .target(
       name: "TouchAreaInsets",
-      path: "Sources"
+      path: "Sources",
+      publicHeadersPath: "."
     )
   ],
   swiftLanguageVersions: [.v5]
