@@ -1,3 +1,9 @@
+# fork 배경
+
+- 29CM iOS 앱에서 사용하고 있는 라이브러리로, SPM 지원이 되지 않아 fork 후 별도로 SPM 지원을 추가했습니다.
+
+---
+
 # TouchAreaInsets
 
 [![Build Status](https://travis-ci.org/devxoul/TouchAreaInsets.svg?branch=master)](https://travis-ci.org/devxoul/TouchAreaInsets)
